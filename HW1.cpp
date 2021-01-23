@@ -6,6 +6,6 @@ using std::cout;
 
 
 int main() {
-	cout << "Coding is easy";
+	cout << "Time management is hard";
 	return 0;
 }
